@@ -1,2 +1,2 @@
-# curdOp
-This is a public repository of curd-operations project.
+# crud-operations
+This is a public repository of crud-operations project.
